@@ -1,0 +1,10 @@
+To Kill a Mockingbird|Harper Lee|Fiction|A gripping and heart-wrenching tale of racial injustice in the Deep South.
+1984|George Orwell|Dystopian|Orwell's chilling prophecy about the future and the terrors of a totalitarian regime.
+The Great Gatsby|F. Scott Fitzgerald|Classics|A critique of the American Dream set in the Roaring Twenties.
+Pride and Prejudice|Jane Austen|Romance|A romantic novel of manners that highlights the issues of marriage and morality.
+The Catcher in the Rye|J.D. Salinger|Classics|A story about teenage rebellion and angst.
+Moby Dick|Herman Melville|Adventure|A thrilling adventure of the obsessive quest for the white whale, Moby Dick.
+War and Peace|Leo Tolstoy|Historical|A sweeping narrative of the French invasion of Russia and its impact on society.
+The Hobbit|J.R.R. Tolkien|Fantasy|A fantastical journey of a hobbit who joins a group of dwarves to reclaim their mountain home.
+Harry Potter and the Sorcerer's Stone|J.K. Rowling|Fantasy|A young boy discovers he is a wizard and attends a magical school.
+The Da Vinci Code|Dan Brown|Thriller|A symbologist uncovers a conspiracy within the Catholic Church.
